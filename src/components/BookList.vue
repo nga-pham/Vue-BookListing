@@ -10,11 +10,11 @@
 </template>
 <script>
 import BookItem from "./BookItem";
-import BookItem from "./BookItem.vue";
 
 export default {
-  name: "BookList",
-  data() {
+name: "BookList",
+  data() 
+{
     return {
       title: "All Books",
       books: [
