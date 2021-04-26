@@ -28,6 +28,7 @@ h1,
 h2 {
   font-weight: normal;
 }
+<!-- need the class name -->
 ul {
   list-style-type: none;
   padding: 0;
